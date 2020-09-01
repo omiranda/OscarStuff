@@ -1,0 +1,6 @@
+site_name: Oscar stuff
+theme: readthedocs
+pages:
+- Bio and contact information: OscarBio.md
+- Reading list: OscarReadingList.md
+- Projects: OscarProjectsList.md
