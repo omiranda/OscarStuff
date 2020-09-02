@@ -7,3 +7,6 @@
 - [Controlling for effects of confounding variables on machine learning predictions](https://www.biorxiv.org/content/10.1101/2020.08.17.255034v1)
 
 # Neuroimaging
+
+# ABCD
+- [Wes on PCA scores using ABCD data](./references/Wes_ABCD_PCA_scores.pdf)
