@@ -10,3 +10,7 @@
 - Scott's ABCD manuscipt
     - [pdf from biorxiv](./References/2020.08.21.257758v1.full.pdf)
     - [link to bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.21.257758v1)
+
+## Steps
+- Define and load brain features (scalar, conn)
+- Residualizer (take a look at the scratch folder)
