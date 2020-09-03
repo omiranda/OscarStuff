@@ -11,4 +11,3 @@
 # ABCD
 - [Wes on PCA scores using ABCD data](./references/Wes_ABCD_PCA_scores.pdf)
 
-- [Using importTIdy](readme_import_tidyData_with_Dictionary.html)
