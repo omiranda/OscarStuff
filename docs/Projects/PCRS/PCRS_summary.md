@@ -13,4 +13,4 @@
 
 ## Steps
 - Define and load brain features (scalar, conn)
-- Residualizer (take a look at the scratch folder)
+- Residualizer ([take a look at the scratch folder](./scratch))
