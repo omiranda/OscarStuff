@@ -10,6 +10,9 @@ Participant where making variance failed
 - document an exemplify code to get the list
 ## GUI_environments
 
+
+
+
 For the ABCD data:
 
 Try to see if you identify the mismatch 
@@ -28,3 +31,8 @@ Validating frames and parcellations for survivor 1254 out of 1907
 
 - slim the process to validate frame count
 - enable saving variance file on a different path
+
+- patches for:
+    - variance creation
+    - frames count validation
+    
