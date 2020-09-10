@@ -28,11 +28,3 @@ Validating frames and parcellations for survivor 1254 out of 1907
 /home/groups/brainmri/abcd/data/HCP/derivatives/dcan_abcd_pipeline/sub-NDARINVLKDHWPWF/ses-baselineYear1Arm1/func/sub-NDARINVLKDHWPWF_ses-baselineYear1Arm1_task-rest_bold_roi-Markov2012FreeSurferSubcortical_timeseries.ptseries.nii
 /home/groups/brainmri/abcd/data/HCP/derivatives/dcan_abcd_pipeline/sub-NDARINVLKDHWPWF/ses-baselineYear1Arm1/func/sub-NDARINVLKDHWPWF_ses-baselineYear1Arm1_task-rest_bold_roi-Power2011FreeSurferSubcortical_timeseries.ptseries.nii
 /home/groups/brainmri/abcd/data/HCP/derivatives/dcan_abcd_pipeline/sub-NDARINVLKDHWPWF/ses-baselineYear1Arm1/func/sub-NDARINVLKDHWPWF_ses-baselineYear1Arm1_task-rest_bold_roi-Yeo2011FreeSurferSubcortical_timeseries.ptseries.nii
-
-- slim the process to validate frame count
-- enable saving variance file on a different path
-
-- patches for:
-    - variance creation
-    - frames count validation
-    
